@@ -2,7 +2,7 @@
 Developing a system that controls the speed of a fan depending on the temperature.
 
 * Full description of the project is provided as pdf file
-CONTENTS:
+* CONTENTS:
 
 * simulation of hardware implementation
 
