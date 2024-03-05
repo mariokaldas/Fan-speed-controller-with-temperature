@@ -1,0 +1,9 @@
+APP/HAL/MCAL/ADC.o APP/HAL/MCAL/ADC.o: ../APP/HAL/MCAL/ADC.c \
+  ../APP/HAL/MCAL/ADC.h ../APP/HAL/MCAL/std_types.h \
+  ../APP/HAL/MCAL/AVRIO.h
+
+../APP/HAL/MCAL/ADC.h:
+
+../APP/HAL/MCAL/std_types.h:
+
+../APP/HAL/MCAL/AVRIO.h:
